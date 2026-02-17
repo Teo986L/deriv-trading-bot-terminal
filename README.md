@@ -46,7 +46,7 @@ projeto/
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/SEU-USUARIO/trading-bot-inteligente-terminal.git
+git clone https://github.com/Teo986L/deriv-trading-bot-terminal.git
 cd trading-bot-inteligente-terminal
 
 # 2. Instale as dependências
@@ -122,8 +122,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 📞 Contato
 
-- GitHub: [@SEU-USUARIO](https://github.com/SEU-USUARIO)
-- Email: seu-email@exemplo.com
+- GitHub: [@teo986l](https://github.com/teo986l)
+- Email: 
 
 ## 🙏 Agradecimentos
 
